@@ -1,0 +1,6 @@
+.player {
+	aspect-ratio: 16/9;
+	width: 50%;
+	margin: 0 auto; 
+	padding: 20px;
+}
